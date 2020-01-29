@@ -5,5 +5,3 @@ puts counter
 counter = counter + 1
   #your code here
 end
-
-
